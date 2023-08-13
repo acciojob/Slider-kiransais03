@@ -10,3 +10,15 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+#review-container {
+    box-sizing: border-box;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ column-gap: 20px;
+}
+
+.icon1 {
+    cursor: pointer;
+}
